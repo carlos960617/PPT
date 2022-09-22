@@ -3,7 +3,7 @@
 <head>
     
     <style>
-        /*2 comentarios para pruebas GIT  */
+        /*3 comentarios para pruebas GIT  */
 
         #usuario{
             background-color:blue;
